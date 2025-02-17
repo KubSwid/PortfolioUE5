@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ExceptSpace",
+			"Path": "..\\Source\\ExceptSpace.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ExceptSpaceEditor",
+			"Path": "..\\Source\\ExceptSpaceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
