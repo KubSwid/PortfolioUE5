@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\swide\\documents\\unrealprojects\\portfolioue5\\exceptspace\\intermediate\\build\\win64\\unrealeditor\\inc\\exceptspace\\uht\\mazemanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\swide\\documents\\unrealprojects\\portfolioue5\\exceptspace\\intermediate\\build\\win64\\x64\\exceptspaceeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\swide\\documents\\unrealprojects\\portfolioue5\\exceptspace\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\exceptspace\\definitions.exceptspace.h",
+            "c:\\users\\swide\\documents\\unrealprojects\\portfolioue5\\exceptspace\\source\\exceptspace\\mazemanager.h",
+            "c:\\users\\swide\\documents\\unrealprojects\\portfolioue5\\exceptspace\\intermediate\\build\\win64\\unrealeditor\\inc\\exceptspace\\uht\\mazemanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

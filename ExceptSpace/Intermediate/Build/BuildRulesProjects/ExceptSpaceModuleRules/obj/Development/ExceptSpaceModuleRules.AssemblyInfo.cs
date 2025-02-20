@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExceptSpaceModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ad7d77bbe777ffb04f906179da7d7f215e19e43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955bb60fa1e8c6677c5c36e2ad5eb54acc25cb3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExceptSpaceModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExceptSpaceModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
