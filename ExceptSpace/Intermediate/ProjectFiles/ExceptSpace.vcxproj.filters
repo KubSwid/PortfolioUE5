@@ -72,6 +72,9 @@
     <ClCompile Include="..\..\Source\ExceptSpace\ExceptSpaceWeaponComponent.h">
       <Filter>Source\ExceptSpace</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ExceptSpace\MazeCell.h">
+      <Filter>Source\ExceptSpace</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ExceptSpace\MazeLogic.cpp">
       <Filter>Source\ExceptSpace</Filter>
     </ClCompile>
